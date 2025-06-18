@@ -1,0 +1,23 @@
+artifact_path: file:///C:/Users/paypa/OneDrive/Desktop/Project/MlOps/experiments-for-modern-ai-and-mlops/notebooks/mlruns/206418342418086226/models/m-fb7c420b80794706a325a027c570a23e/artifacts
+flavors:
+  python_function:
+    cloudpickle_version: 3.1.1
+    code: null
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pyfunc.loaders.code_model
+    model_code_path: C:\Users\paypa\OneDrive\Desktop\Project\MlOps\experiments-for-modern-ai-and-mlops\src\mistral_wrapper.py
+    python_version: 3.11.6
+    streamable: false
+mlflow_version: 3.1.0
+model_id: m-fb7c420b80794706a325a027c570a23e
+model_size_bytes: 1675
+model_uuid: m-fb7c420b80794706a325a027c570a23e
+prompts: null
+run_id: e4f464cf517e46f083a2ad82fcd66edb
+saved_input_example_info:
+  artifact_path: input_example.json
+  serving_input_path: serving_input_example.json
+  type: json_object
+utc_time_created: '2025-06-18 13:05:45.212812'

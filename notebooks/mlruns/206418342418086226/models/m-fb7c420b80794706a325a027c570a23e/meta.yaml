@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/paypa/OneDrive/Desktop/Project/MlOps/experiments-for-modern-ai-and-mlops/notebooks/mlruns/206418342418086226/models/m-fb7c420b80794706a325a027c570a23e/artifacts
+creation_timestamp: 1750251945196
+experiment_id: '206418342418086226'
+last_updated_timestamp: 1750251950318
+model_id: m-fb7c420b80794706a325a027c570a23e
+model_type: null
+name: model
+source_run_id: e4f464cf517e46f083a2ad82fcd66edb
+status: 2
+status_message: null

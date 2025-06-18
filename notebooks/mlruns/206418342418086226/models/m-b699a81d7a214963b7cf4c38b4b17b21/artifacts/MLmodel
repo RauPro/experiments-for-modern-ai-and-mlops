@@ -1,0 +1,30 @@
+artifact_path: file:///C:/Users/paypa/OneDrive/Desktop/Project/MlOps/experiments-for-modern-ai-and-mlops/notebooks/mlruns/206418342418086226/models/m-b699a81d7a214963b7cf4c38b4b17b21/artifacts
+flavors:
+  python_function:
+    cloudpickle_version: 3.1.1
+    code: null
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pyfunc.loaders.code_model
+    model_code_path: C:\Users\paypa\OneDrive\Desktop\Project\MlOps\experiments-for-modern-ai-and-mlops\src\mistral_wrapper.py
+    python_version: 3.11.6
+    streamable: false
+is_signature_from_type_hint: false
+mlflow_version: 3.1.0
+model_id: m-b699a81d7a214963b7cf4c38b4b17b21
+model_size_bytes: 1674
+model_uuid: m-b699a81d7a214963b7cf4c38b4b17b21
+prompts: null
+run_id: 31febf540a9f499db1f744ca6b1849d6
+saved_input_example_info:
+  artifact_path: input_example.json
+  serving_input_path: serving_input_example.json
+  type: json_object
+signature:
+  inputs: '[{"type": "array", "items": {"type": "string"}, "name": "question", "required":
+    true}]'
+  outputs: '[{"type": "string", "required": true}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-06-18 13:03:43.309887'

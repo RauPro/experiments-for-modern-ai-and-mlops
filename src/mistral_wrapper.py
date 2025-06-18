@@ -37,5 +37,5 @@ mistral_qa_instance = MistralQA(
     max_tokens=1000
 )
 
-# Set the model for MLflow to discover
+
 mlflow.models.set_model(mistral_qa_instance)
